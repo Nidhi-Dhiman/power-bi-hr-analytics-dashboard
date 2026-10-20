@@ -1,9 +1,9 @@
 # Power BI HR Analytics Dashboard
 
 ## Project Overview
-This project presents an interactive Human Resources (HR) Analytics Dashboard built using Microsoft Power BI. It helps analyze workforce demographics, employee headcount, retention, and turnover trends to support data-driven HR decision-making.
+This project features an interactive Human Resources (HR) Analytics Dashboard developed using Microsoft Power BI to analyze workforce demographics, employee headcount, retention, and turnover trends. It transforms employee data into meaningful visual insights to support data-driven HR decision-making.
 
-The dashboard allows users to explore workforce metrics across different years, departments, job levels, locations, and employee demographics.
+The dashboard enables users to explore workforce metrics dynamically across different years, departments, job levels, locations, and employee demographics. Through interactive visualizations and filtering capabilities, it helps identify workforce patterns, monitor employee trends, and better understand retention and turnover across the organization.
 
 ## Dashboard Pages
 
@@ -34,23 +34,14 @@ The dashboard allows users to explore workforce metrics across different years, 
 - Employee retention and turnover can be compared across departments and job levels to identify areas for further investigation.
 
 ## Tools & Technologies
-Tools & Technologies
-
-Business Intelligence: Microsoft Power BI Desktop
-
-Data Transformation: Power Query Editor, data cleaning, and data preparation
-
-Data Modeling: Data relationships and semantic model design
-
-DAX & Calculations: DAX measures, calculated columns, and HR KPI calculations
-
-Data Visualization: KPI cards, bar charts, line charts, and demographic visualizations
-
-Interactive Reporting: Slicers, timeframe filters, interactive tooltips, and report-page navigation
-
-HR Analytics: Employee headcount, retention, turnover, and workforce demographics
-
-Reporting & Export: PDF report export and presentation
+- Business Intelligence: Microsoft Power BI Desktop
+- Data Transformation: Power Query Editor, data cleaning, and data preparation
+- Data Modeling: Data relationships and semantic model design
+- DAX & Calculations: DAX measures, calculated columns, and HR KPI calculations
+- Data Visualization: KPI cards, bar charts, line charts, and demographic visualizations
+- Interactive Reporting: Slicers, timeframe filters, interactive tooltips, and report-page navigation
+- HR Analytics: Employee headcount, retention, turnover, and workforce demographics
+- Reporting & Export: PDF report export and presentation
 
 ## Skills Demonstrated
 - Dashboard development and design
@@ -68,4 +59,3 @@ Reporting & Export: PDF report export and presentation
 ## Business Value
 This dashboard helps HR teams understand workforce composition, monitor employee retention, identify turnover patterns, and explore potential areas for improvement in employee engagement and retention strategies.
 
-*Note: The metrics shown reflect the selected reporting period and filters in the dashboard.*
