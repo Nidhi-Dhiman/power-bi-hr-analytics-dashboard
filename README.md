@@ -34,14 +34,23 @@ The dashboard allows users to explore workforce metrics across different years, 
 - Employee retention and turnover can be compared across departments and job levels to identify areas for further investigation.
 
 ## Tools & Technologies
--Business Intelligence: Microsoft Power BI Desktop
--Data Transformation: Power Query Editor, data cleaning, and data preparation
--Data Modeling: Data relationships and semantic model design
--DAX & Calculations: DAX measures, calculated columns, and HR KPI calculations
--Data Visualization: KPI cards, bar charts, line charts, and demographic visualizations
--Interactive Reporting: Slicers, timeframe filters, interactive tooltips, and report-page navigation
--HR Analytics: Employee headcount, retention, turnover, and workforce demographics
--Reporting & Export: PDF report export and presentation
+Tools & Technologies
+
+Business Intelligence: Microsoft Power BI Desktop
+
+Data Transformation: Power Query Editor, data cleaning, and data preparation
+
+Data Modeling: Data relationships and semantic model design
+
+DAX & Calculations: DAX measures, calculated columns, and HR KPI calculations
+
+Data Visualization: KPI cards, bar charts, line charts, and demographic visualizations
+
+Interactive Reporting: Slicers, timeframe filters, interactive tooltips, and report-page navigation
+
+HR Analytics: Employee headcount, retention, turnover, and workforce demographics
+
+Reporting & Export: PDF report export and presentation
 
 ## Skills Demonstrated
 - Dashboard development and design
